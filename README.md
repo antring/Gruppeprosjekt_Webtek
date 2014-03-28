@@ -24,6 +24,15 @@ Roller
 
 	Øystein
 
+| Navn | Roller |
+|------|--------|
+| Erik | Prosjektleder, Grafisk |
+| Niklas | Oversetter |
+| Kristoffer | Grafisk |
+| Vidar | CSS |
+| Lars-Martin | Grafisk |
+| Øystein | |
+
 Alle skal jobbe med innhold, mer om dette tar vi når malen enn ferdig. 
 
 Navn:
