@@ -4,7 +4,7 @@ Gruppeprosjekt_Webtek
 
 Tema
     Nettside som inneholder anmeldelser av filmer, tvserier, spill.
-
+'''
 Roller
     Erik
         Prosjektleder
@@ -23,7 +23,7 @@ Roller
 		Grafisk
 
 	Øystein
-
+'''
 Alle skal jobbe med innhold, mer om dette tar vi når malen enn ferdig. 
 
 Navn:
