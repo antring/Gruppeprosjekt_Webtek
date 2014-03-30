@@ -18,16 +18,21 @@ Nettside som inneholder anmeldelser av filmer, tvserier, spill.
 Alle skal jobbe med innhold, mer om dette tar vi når malen enn ferdig. 
 
 Navn:
-MediaDB
-Epic Reviews
-Obsdian Pilot <---- Its a project.
+Obsdian Pilot
 
 Layout:
-Sentrert side
-'Spanning' meny (med logo).
-Terningkast (nederst i artikkelen) er sentral.
-Main content til venstre (80-70%?) og ekstraressurser til høyre (20-30%?)
-Ekstraressurser: 
+	Sentrert side
+	'Spanning' meny (med logo).
+	Terningkast og oppsumering (nederst i artikkelen) er sentral, ofte det eneste som blir lest.
+	Main content til venstre (80-70%?) 
+	Ekstraressurser til høyre (20-30%?)
 
+Mulige ekstraressurser: 
+	Kommende filmer, spill, serier.
+	Filmer som kommer på kino. (Kanskje "nært deg" om det ikke er vanskelig å implementere)
+	
 Fargepalett:
-Svart, hvit, lyseblå #00CDFF, mørkere lyseblå #008FB2
+	Svart (#000000)
+	Hvit (#FFFFFF)
+	Lyseblå #00CDFF
+	Mørkere blå (#008FB2)
