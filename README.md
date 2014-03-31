@@ -6,14 +6,14 @@ Tema
 Nettside som inneholder anmeldelser av filmer, tvserier, spill.
 
 
-| Navn | Roller |
-|------|--------|
-| Erik | Prosjektleder, Grafisk |
-| Niklas | Oversetter |
-| Kristoffer | Grafisk |
-| Vidar | CSS |
-| Lars-Martin | Grafisk |
-| Øystein | |
+| Navn | Roller | Skal anmelde |
+|------|--------| ---------|
+| Erik | Prosjektleder, Grafisk | Goat simulator og Frozen |
+| Niklas | Oversetter | Early Look ESO og Captain America 2 |
+| Kristoffer | Grafisk | Cosmos |
+| Vidar | CSS | Vikings |
+| Lars-Martin | Grafisk | Dark Souls 2 og Only God forgives |
+| Øystein | | Rush |
 
 Alle skal jobbe med innhold, mer om dette tar vi når malen enn ferdig. 
 
