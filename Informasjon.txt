@@ -1,2 +1,0 @@
-Har flyttet det som var i informasjonsdokumentet over til README.
-- Erik
