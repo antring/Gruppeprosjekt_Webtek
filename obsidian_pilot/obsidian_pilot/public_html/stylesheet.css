@@ -1,0 +1,154 @@
+
+
+/* 
+    Created on : 31-Mar-2014, 09:59:18
+    Author     : vidar
+*/
+html{
+    
+}
+div.topbar{
+    z-index:1;
+    height:80px;
+    background-color: gray;
+    position:fixed;
+    left:0px;
+    right:0px;
+    top:0px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    min-width: 800px;
+}
+
+div.buttons{
+    z-index:2;
+    opacity:0.7;
+    position:relative;
+    display:inline-block;
+    text-align: center;
+
+    margin-right:auto;
+    margin-top: 14px;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid lightgray;
+    background-color: #b0afaf;
+    
+    margin-left: 20px;
+    width:12%;
+    max-width: 200px;
+    height:auto;
+}
+
+div.buttons:hover{
+    opacity:1;
+}
+
+a{
+    opacity:1;
+    text-decoration: none;
+}
+
+
+
+
+
+div.content{
+    
+    /*position: relative;*/   
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    /*height: auto;*/
+    min-width: 800px;
+    border:2px solid gray;
+    margin-top: 100px;
+    
+}
+
+div.left_content{
+    /*z-index: 0;*/
+    margin-top: 10px;
+    margin-left: 10px;
+    border:2px solid lightgray;
+    display: inline-block;
+    float: left;
+    width:65%;
+    /*min-height: 975px;*/
+    min-width: 98px;
+    /*position: relative;*/
+    
+}
+
+div.footer{
+    position: relative;
+}
+
+div.right_content{
+    z-index: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    border:2px solid lightgray;
+    display: inline-block;
+    width:30%;
+    min-height: 975px;
+    min-width: 75px;
+}
+
+img.logo{
+    float:left;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+div.buttonboxes{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  
+}
+
+div.review{
+   margin-bottom: 35px;
+   margin-top: 2%;
+}
+
+div.reviewtext{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+
+}
+
+img.bigpic{
+    width:95%;
+    height:auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+img.smallpic{
+    float:right;
+    display:inline-block;
+    margin-top: 10px;
+    width: 40%;
+    margin-right: 2.5%;
+}
+
+div.readmore{
+    float:right;
+    position:relative;
+    font-weight: bold;
+    background-color: lightblue;
+    opacity:0.8;
+    margin-bottom: 10px;
+}
+
+div.readmore:hover{
+    opacity: 1;
+}
