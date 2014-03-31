@@ -8,3 +8,20 @@ and open the template in the editor.
     Author     : vidar
 */
 
+top_bar{
+    height:40px;
+    background-color: red;
+    position:fixed;
+    left:0px;
+    right:0px;
+    top:0px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+buttons{
+    display:block;
+    text-align: center;
+    float
+}
