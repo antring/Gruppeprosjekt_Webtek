@@ -8,9 +8,9 @@ Nettside som inneholder anmeldelser av filmer, tvserier, spill.
 
 | Navn | Roller | Skal anmelde |
 |------|--------| ---------|
-| Erik | Prosjektleder, Grafisk | Goat simulator og Frozen og Braveheart |
+| Erik | Prosjektleder, Grafisk | Goat simulator og Frozen |
 | Niklas | Oversetter | Early Look ESO og Captain America 2 |
-| Kristoffer | Grafisk | Cosmos og Firefly |
+| Kristoffer | Grafisk | Cosmos (2014) og The Wolf of Wall Street |
 | Vidar | CSS | Vikings og Stick of Truth |
 | Lars-Martin | Grafisk | Dark Souls 2 og Only God forgives |
 | Øystein | | Rush og The Mentalist |
