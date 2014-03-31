@@ -11,9 +11,9 @@ Nettside som inneholder anmeldelser av filmer, tvserier, spill.
 | Erik | Prosjektleder, Grafisk | Goat simulator og Frozen og Braveheart |
 | Niklas | Oversetter | Early Look ESO og Captain America 2 |
 | Kristoffer | Grafisk | Cosmos og Firefly |
-| Vidar | CSS | Vikings |
+| Vidar | CSS | Vikings og Stick of Truth |
 | Lars-Martin | Grafisk | Dark Souls 2 og Only God forgives |
-| Øystein | | Rush |
+| Øystein | | Rush og The Mentalist |
 
 Alle skal jobbe med innhold, mer om dette tar vi når malen enn ferdig. 
 
