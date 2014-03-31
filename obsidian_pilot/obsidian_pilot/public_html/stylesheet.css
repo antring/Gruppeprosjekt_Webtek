@@ -5,11 +5,11 @@
     Author     : vidar
 */
 html{
-    
+
 }
 div.topbar{
     z-index:1;
-    height:80px;
+    height:50px;
     background-color: gray;
     position:fixed;
     left:0px;
@@ -28,10 +28,10 @@ div.buttons{
     position:relative;
     display:inline-block;
     text-align: center;
-
+    
     margin-right:auto;
-    margin-top: 14px;
-    font-size: 40px;
+    margin-top: 5px;
+    font-size: 30px;
     padding-left: 20px;
     padding-right: 20px;
     border: 2px solid lightgray;
@@ -66,6 +66,7 @@ div.content{
     min-width: 800px;
     border:2px solid gray;
     margin-top: 100px;
+    margin-bottom: 10px;
     
 }
 
@@ -84,7 +85,17 @@ div.left_content{
 }
 
 div.footer{
-    position: relative;
+    height:40px;
+    width:100%;
+    background-color: gray;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    display:block;
+    position: fixed;
 }
 
 div.right_content{
@@ -100,9 +111,10 @@ div.right_content{
 
 img.logo{
     float:left;
-    height: 60px;
-    margin-top: 10px;
-    margin-left: 30px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10%;
+    
 }
 
 div.buttonboxes{
@@ -151,4 +163,8 @@ div.readmore{
 
 div.readmore:hover{
     opacity: 1;
+}
+
+div.copyright{
+    margin-top: 10px;
 }
