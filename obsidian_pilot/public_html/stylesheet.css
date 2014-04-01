@@ -80,7 +80,7 @@ div.left_content{
     margin-bottom: 10px;
     border:2px solid lightgray;
     display: inline-block;
-    float: left;
+    
     width:65%;
     /*min-height: 975px;*/
     min-width: 98px;
@@ -99,8 +99,7 @@ div.footer{
     left:0px;
     right:0px;
     bottom:0px;
-    display:block;
-    position: fixed;
+    
 }
 
 div.right_content{
@@ -113,6 +112,7 @@ div.right_content{
     width:30%;
     min-height: 975px;
     min-width: 75px;
+    float:right;
 }
 
 div.feedreview{
