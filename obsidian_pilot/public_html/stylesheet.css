@@ -81,7 +81,7 @@ div.content{
     min-width: 820px;
     border:2px solid gray;
     margin-top: 100px;
-    
+ 
     height:100%;
     
     
@@ -98,8 +98,8 @@ div.left_content{
     margin-right: 5px;
     margin-bottom: 10px;
     border:2px solid lightgray;
-    display: inline-block;
     
+    display: inline-block;
     width:65%;
     /*min-height: 975px;*/
     min-width: 98px;
@@ -133,6 +133,7 @@ div.right_content{
     min-height: 975px;
     min-width: 75px;
     float:right;
+    
 }
 
 div.feedreview{
@@ -215,6 +216,7 @@ div.copyright{
 #revbanner img { display: block;
                  width: 100%;
                  height: auto;
+                 
 }
 .leftimg img { float: left;
                width: 40%;
@@ -229,6 +231,11 @@ div.copyright{
 }
 #summary { background-color: #ff0000;
            margin-top: 100px;
+           margin-bottom: 40px;
+           margin-right: 10px;
+           margin-left: 10px;
+           padding-top: 5px;
+           padding-bottom: 5px;
 }
 #tag { font-style: italic;
        color: #737373;
