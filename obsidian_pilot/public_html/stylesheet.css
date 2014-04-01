@@ -68,6 +68,7 @@ div.content{
     border:2px solid gray;
     margin-top: 100px;
     margin-bottom: 45px;
+    
 
 }
 
@@ -163,14 +164,16 @@ img.bigpic{
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 img.smallpic{
     float:right;
     display:inline-block;
-    margin-top: 10px;
+    
     width: 40%;
     margin-right: 2.5%;
+    margin-left:10px;
 }
 
 div.readmore{
