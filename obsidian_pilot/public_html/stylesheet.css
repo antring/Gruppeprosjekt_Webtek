@@ -28,7 +28,6 @@ div.buttons{
     position:relative;
     display:inline-block;
     text-align: center;
-    
     margin-right:auto;
     margin-top: 5px;
     font-size: 30px;
@@ -36,7 +35,6 @@ div.buttons{
     padding-right: 20px;
     border: 2px solid lightgray;
     background-color: #b0afaf;
-    
     margin-left: 20px;
     width:12%;
     max-width: 200px;
@@ -52,10 +50,6 @@ a{
     text-decoration: none;
 }
 
-
-
-
-
 div.content{
     
     /*position: relative;*/   
@@ -64,10 +58,9 @@ div.content{
     width:80%;
     /*height: auto;*/
     min-width: 820px;
-    border:2px solid gray;
+    border:2px solid #0063E8;
     margin-top: 100px;
-    margin-bottom: 45px;
-    
+    margin-bottom: 45px;   
 }
 
 div.left_content{
@@ -76,14 +69,13 @@ div.left_content{
     margin-left: 10px;
     margin-right: 5px;
     margin-bottom: 10px;
-    border:2px solid lightgray;
+    border:2px solid #2E81FF;
     display: inline-block;
     float: left;
     width:65%;
     /*min-height: 975px;*/
     min-width: 98px;
     /*position: relative;*/
-    
 }
 
 div.footer{
@@ -93,7 +85,6 @@ div.footer{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    
     left:0px;
     right:0px;
     bottom:0px;
@@ -106,7 +97,7 @@ div.right_content{
     margin-top: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
-    border:2px solid lightgray;
+    border:2px solid #2E81FF;
     display: inline-block;
     width:30%;
     min-height: 975px;
@@ -116,6 +107,7 @@ div.right_content{
 div.feedreview{
     margin-top: 2%;
     margin-bottom: 55px;
+    margin-right: 2.5%;
 }
 
 /*img.smallpic{
@@ -133,15 +125,13 @@ img.logo{
     float:left;
     height: 40px;
     margin-top: 5px;
-    margin-left: 10%;
-    
+    margin-left: 10%;  
 }
 
 div.buttonboxes{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-  
 }
 
 div.review{
@@ -152,7 +142,6 @@ div.review{
 div.reviewtext{
     margin-left: 2.5%;
     margin-right: 2.5%;
-
 }
 
 img.bigpic{
