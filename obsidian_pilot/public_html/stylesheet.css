@@ -43,7 +43,7 @@ div.buttons{
     position:relative;
     display:inline-block;
     text-align: center;
-
+    float:right;
     margin-right:auto;
     margin-top: 5px;
     font-size: 25px;
@@ -51,9 +51,9 @@ div.buttons{
     padding-right: 20px;
     border: 2px solid lightgray;
     background-color: #b0afaf;
-
+    
     margin-left: 20px;
-    width:8%;
+    width: 100px;
     max-width: 200px;
     height:auto;
 }
@@ -162,7 +162,7 @@ img.logo{
 
 div.buttonboxes{
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 10%;;
     text-align: center;
 
 }
