@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 /* 
@@ -39,7 +39,7 @@ div.buttons{
     background-color: #b0afaf;
 
     margin-left: 20px;
-    width:12%;
+    width:8%;
     max-width: 200px;
     height:auto;
 }
@@ -210,3 +210,4 @@ div.copyright{
 #tag { font-style: italic;
        color: #737373;
        font-size: 80%;
+}
