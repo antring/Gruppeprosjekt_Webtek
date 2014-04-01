@@ -28,7 +28,7 @@ div.buttons{
     position:relative;
     display:inline-block;
     text-align: center;
-    
+
     margin-right:auto;
     margin-top: 5px;
     font-size: 30px;
@@ -36,7 +36,7 @@ div.buttons{
     padding-right: 20px;
     border: 2px solid lightgray;
     background-color: #b0afaf;
-    
+
     margin-left: 20px;
     width:12%;
     max-width: 200px;
@@ -57,7 +57,7 @@ a{
 
 
 div.content{
-    
+
     /*position: relative;*/   
     margin-left: auto;
     margin-right: auto;
@@ -67,7 +67,7 @@ div.content{
     border:2px solid gray;
     margin-top: 100px;
     margin-bottom: 45px;
-    
+
 }
 
 div.left_content{
@@ -83,7 +83,7 @@ div.left_content{
     /*min-height: 975px;*/
     min-width: 98px;
     /*position: relative;*/
-    
+
 }
 
 div.footer{
@@ -93,7 +93,7 @@ div.footer{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    
+
     left:0px;
     right:0px;
     bottom:0px;
@@ -134,19 +134,19 @@ img.logo{
     height: 40px;
     margin-top: 5px;
     margin-left: 10%;
-    
+
 }
 
 div.buttonboxes{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-  
+
 }
 
 div.review{
-   margin-bottom: 35px;
-   margin-top: 2%;
+    margin-bottom: 35px;
+    margin-top: 2%;
 }
 
 div.reviewtext{
@@ -187,4 +187,26 @@ div.readmore:hover{
 
 div.copyright{
     margin-top: 10px;
+}
+#revbanner img { display: block;
+                 width: 100%;
+                 height: auto;
+}
+.leftimg img { float: left;
+               width: 40%;
+               height: auto;
+}
+.rightimg img { float: right;
+            width: 40%;
+            height: auto;
+}
+#video { text-align: center;
+         margin-top: 100px;
+}
+#summary { background-color: #ff0000;
+           margin-top: 100px;
+}
+#tag { font-style: italic;
+       color: #737373;
+       font-size: 80%;
 }
