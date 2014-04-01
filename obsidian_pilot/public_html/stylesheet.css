@@ -221,10 +221,12 @@ div.copyright{
 .leftimg img { float: left;
                width: 40%;
                height: auto;
+               margin:10px;
 }
 .rightimg img { float: right;
             width: 40%;
             height: auto;
+            margin: 10px;
 }
 #video { text-align: center;
          margin-top: 100px;
@@ -240,4 +242,8 @@ div.copyright{
 #tag { font-style: italic;
        color: #737373;
        font-size: 80%;
+}
+
+p{
+    margin:10px;
 }
