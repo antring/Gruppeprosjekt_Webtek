@@ -276,3 +276,11 @@ iframe{
     top:0;
 }
 
+dice{
+    float: left;
+    margin-left: 35px;
+    padding-left: 35px;
+}
+
+
+
