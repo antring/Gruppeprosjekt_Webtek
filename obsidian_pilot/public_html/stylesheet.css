@@ -72,6 +72,10 @@ a:hover{
     color:orange;
 }
 
+a.back{
+    float:right;
+}
+
 
 
 
