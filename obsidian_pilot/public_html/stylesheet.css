@@ -1,10 +1,9 @@
 
-
-
 /* 
     Created on : 31-Mar-2014, 09:59:18
     Author     : vidar
 */
+
 html{
 
 }
@@ -18,9 +17,8 @@ body{
 div.wrapper{
     min-height:100%;
     position:relative;
-    
-    
 }
+
 div.topbar{
     z-index:1;
     height:50px;
@@ -35,7 +33,6 @@ div.topbar{
     text-align: center;
     min-width: 800px;
     font-family: Cambria, Georgia, serif;
- 
 }
 
 div.buttons{
@@ -50,7 +47,6 @@ div.buttons{
     font-size: 20px;
     padding-left: 10px;
     padding-right: 10px;
-/*    border: 2px solid lightgray;*/
     background-color: gray;
     margin-left: 20px;
     width: 90px;
@@ -76,48 +72,37 @@ a.back{
     float:right;
 }
 
-
-
-
-
-div.content{
-
-    /*position: relative;*/   
+div.content{  
     margin-left: auto;
     margin-right: auto;
     width:80%;
-    /*height: auto;*/
     min-width: 820px;
     border:2px solid gray;
     margin-top: 100px;
- font-family:Verdana, Arial, sans-serif;
- color: #333333;
- font-size: 90%;
+    font-family:Verdana, Arial, sans-serif;
+    color: #333333;
+    font-size: 90%;
     height:100%;
-    
-    
-    
-   
-    
+}
 
+div.leftwrapper{
+    width:65%;
+    display: inline-block;
 }
 
 .left_content{
-    /*z-index: 0;*/
     margin-top: 10px;
     margin-left: 10px;
-    margin-right: 5px;
+    width:100%;
+    margin-right: 10px;
     margin-bottom: 10px;
     border:2px solid lightgray;
-    
     display: inline-block;
-    width:65%;
-    /*min-height: 975px;*/
     min-width: 98px;
-    /*position: relative;*/
-
 }
-#ctext { margin: 10px;
+
+#ctext{ 
+    margin: 10px;
 }
 
 div.footer{
@@ -125,28 +110,28 @@ div.footer{
     width:100%;
     background-color: gray;
     text-align: center;
-    
     position:absolute;
     left:0;
-    
-    bottom:0;
-    
+    bottom:0; 
 }
 
-
+.right_content p{
+    margin:10px;
+}
 
 div.right_content{
-    z-index: 0;
     margin-top: 10px;
+    margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
     border:2px solid lightgray;
-    display: inline-block;
-    width:30.2%;
-    min-height: 975px;
+    min-height: 50px;
     min-width: 75px;
+}
+
+div.rightwrapper{
+    width:33.5%;
     float:right;
-    
 }
 
 div.feedreview{
@@ -170,18 +155,16 @@ img.logo{
     height: 40px;
     margin-top: 5px;
     margin-left: 10%;
-
 }
 
 div.buttonboxes{
     margin-left: auto;
     margin-right: 10%;;
     text-align: center;
-    min-width: 1200px;
+    min-width: 1300px;
 }
 
 div.review{
-
     margin-bottom: 35px;
     margin-top: 10px;
 }
@@ -189,23 +172,19 @@ div.review{
 div.reviewtext{
     margin-left: 10px;
     margin-right: 10px;
-
 }
 
 img.bigpic{
     width:100%;
     height:auto;
     display:block;
-  
     margin-right: 10px;
-   
     margin-bottom: 5px;
 }
 
 img.smallpic{
     float:right;
     display:inline-block;
-    
     width: 40%;
     margin-right: 2.5%;
     margin-left:10px;
@@ -227,53 +206,53 @@ div.readmore:hover{
 div.copyright{
     margin-top: 10px;
 }
-#revbanner img { display: block;
-                 width: 100%;
-                 height: auto;
-                 
+
+#revbanner img{ 
+    display: block;
+    width: 100%;
+    height: auto;         
 }
-.leftimg img { float: left;
-               width: 40%;
-               height: auto;
-               margin:10px;
+.leftimg img{ 
+    float: left;
+    width: 40%;
+    height: auto;
+    margin:10px;
 }
-.rightimg img { float: right;
-            width: 40%;
-            height: auto;
-            margin: 10px;
+.rightimg img{ 
+    float: right;
+    width: 40%;
+    height: auto;
+    margin: 10px;
 }
 #video { 
-         text-align: center;
-         margin-top: 10px;
-         margin-bottom: 150px;
-         width:80%;
-         height:415px;
-         margin-right: auto;
-         margin-left: auto;
-         position:relative;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 150px;
+    width:80%;
+    height:415px;
+    margin-right: auto;
+    margin-left: auto;
+    position:relative;
 }
 div.summary { 
-           display: inline-block; 
-           background-color: lightblue;
-           margin-top: 0px;
-           margin-bottom: 0px;
-           margin-right: 10px;
-           padding-top: 5px;
-           padding-bottom: 10px;
-           font-weight: bold;
+    display: inline-block; 
+    background-color: lightblue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-weight: bold;
 }
-.summary p { margin-left: 10px;
-}
-
-#tag { font-style: italic;
-       color: #737373;
-       font-size: 80%;
-/*       margin-left: 10px;*/
+.summary p {
+    margin-left: 10px;
 }
 
-/*p{
-    margin:10px;
-}*/
+#tag { 
+    font-style: italic;
+    color: #737373;
+    font-size: 80%;
+}
 
 h3{
     margin-left: 10px;
