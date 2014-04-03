@@ -38,7 +38,7 @@ div.topbar{
 
 div.buttons{
     z-index:2;
-    opacity:0.7;
+    opacity:1;
     position:relative;
     display:inline-block;
     text-align: center;
@@ -48,8 +48,8 @@ div.buttons{
     font-size: 20px;
     padding-left: 10px;
     padding-right: 10px;
-    border: 2px solid lightgray;
-    background-color: #b0afaf;
+/*    border: 2px solid lightgray;*/
+    background-color: gray;
     
     margin-left: 20px;
     width: 90px;
@@ -58,7 +58,7 @@ div.buttons{
 }
 
 div.buttons:hover{
-    opacity:1;
+    background-color: lightgray;
 }
 
 a{
