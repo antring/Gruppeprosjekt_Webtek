@@ -169,23 +169,24 @@ div.buttonboxes{
 }
 
 div.review{
+
     margin-bottom: 35px;
-    margin-top: 2%;
+    margin-top: 10px;
 }
 
 div.reviewtext{
-    margin-left: 2.5%;
-    margin-right: 2.5%;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
 img.bigpic{
-    width:90%;
+    width:100%;
     height:auto;
     display:block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
+  
+    margin-right: 10px;
+   
     margin-bottom: 5px;
 }
 
@@ -272,7 +273,7 @@ h2{
 
 div.headline{
     font-size:30px;
-    margin-left: 10px;
+    margin-left: 0px;
 }
 
 iframe{
