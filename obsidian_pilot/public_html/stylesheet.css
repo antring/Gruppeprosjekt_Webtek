@@ -238,13 +238,16 @@ div.copyright{
          margin-left: auto;
          position:relative;
 }
-#summary { background-color: lightblue;
+#summary { 
+  
+           background-color: lightblue;
            margin-top: 0px;
            margin-bottom: 0px;
            margin-right: 10px;
            margin-left: 10px;
            padding-top: 5px;
            padding-bottom: 10px;
+           
 }
 #tag { font-style: italic;
        color: #737373;
@@ -276,11 +279,19 @@ iframe{
     top:0;
 }
 
-dice{
+div.dice{
+    display: inline-block;
     float: left;
-    margin-left: 35px;
+    margin-left: 0px;
     padding-left: 35px;
+    width:150px; 
+    height:150px;
+   
 }
 
+#summary p{
+    display:inline-block;
+    background-color: lightblue;
+}
 
 
