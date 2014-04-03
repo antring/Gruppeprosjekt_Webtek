@@ -50,7 +50,6 @@ div.buttons{
     padding-right: 10px;
 /*    border: 2px solid lightgray;*/
     background-color: gray;
-    
     margin-left: 20px;
     width: 90px;
     max-width: 200px;
@@ -58,10 +57,11 @@ div.buttons{
 }
 
 div.buttons:hover{
-    background-color: lightgray;
+    color:orange;
 }
 
 a{
+    color:black;
     opacity:1;
     text-decoration: none;
 }
