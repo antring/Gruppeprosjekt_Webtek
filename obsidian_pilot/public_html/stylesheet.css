@@ -250,6 +250,8 @@ div.summary {
            padding-bottom: 10px;
            font-weight: bold;
 }
+.summary p { margin-left: 10px;
+}
 
 #tag { font-style: italic;
        color: #737373;
