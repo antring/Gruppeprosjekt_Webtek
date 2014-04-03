@@ -90,7 +90,7 @@ div.content{
 
 }
 
-div.left_content{
+.left_content{
     /*z-index: 0;*/
     margin-top: 10px;
     margin-left: 10px;
@@ -104,6 +104,8 @@ div.left_content{
     min-width: 98px;
     /*position: relative;*/
 
+}
+#ctext { margin: 10px;
 }
 
 div.footer{
@@ -252,11 +254,12 @@ div.summary {
 #tag { font-style: italic;
        color: #737373;
        font-size: 80%;
+/*       margin-left: 10px;*/
 }
 
-p{
+/*p{
     margin:10px;
-}
+}*/
 
 h3{
     margin-left: 10px;
