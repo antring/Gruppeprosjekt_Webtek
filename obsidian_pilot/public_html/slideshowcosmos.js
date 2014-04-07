@@ -1,15 +1,15 @@
 
 var num=0;
 img1 = new Image ();
-img1.src = "artwork/vikings_img1.jpg";
+img1.src = "artwork/cosmos_img1.jpg";
 img2 = new Image ();
-img2.src = "artwork/vikings_img4.jpg";
+img2.src = "artwork/cosmos_img2.jpg";
 img3 = new Image ();
-img3.src = "artwork/vikings_img5.jpg";
+img3.src = "artwork/cosmos_img3.jpg";
 img4 = new Image ();
-img4.src = "artwork/vikings_img6.jpg";
+img4.src = "artwork/cosmos_img4.jpg";
 img5 = new Image ();
-img5.src = "artwork/vikings_img7.jpg";
+img5.src = "artwork/cosmos_img5.jpg";
 
 
 window.onload=slideshowUp;
