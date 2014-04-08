@@ -83,8 +83,7 @@ div.content{
     color: #333333;
     font-size: 90%;
     height:100%;
-    background-color: white;
-    
+    background-color: white;  
 }
 
 div.leftwrapper{
@@ -168,7 +167,7 @@ div.buttonboxes{
 }
 
 div.review{
-    margin-bottom: 35px;
+    margin-bottom: 45px;
     margin-top: 10px;
 }
 
@@ -247,6 +246,7 @@ div.summary {
     padding-bottom: 10px;
     font-weight: bold;
 }
+
 .summary p {
     margin-left: 10px;
 }
@@ -321,7 +321,6 @@ img.toplistpic{
     margin-right: 5px;
     margin-left: 10px;
     margin-top: -11px;
-   
 }
 
 form {
@@ -404,3 +403,25 @@ img.tagpic{
     margin-right: 5px;
     float:left;
 }
+
+div.values{
+    float:left;
+    margin-left: 10px;
+    font-weight: bold;
+    width: 60px;
+}
+td.keys{
+    font-weight: bold;
+}
+
+table.factbox{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+  
