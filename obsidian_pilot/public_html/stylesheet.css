@@ -142,12 +142,6 @@ div.feedreview{
     margin-bottom: 55px;
 }
 
-/*img.smallpic{
-    display:block;
-    height:auto;
-    width:50%;
-}*/
-
 div.feedtext{
     margin-left: 10px;
     margin-right: 10px;
@@ -218,18 +212,21 @@ div.copyright{
     width: 100%;
     height: auto;         
 }
+
 .leftimg img{ 
     float: left;
     width: 40%;
     height: auto;
     margin:10px;
 }
+
 .rightimg img{ 
     float: right;
     width: 40%;
     height: auto;
     margin: 10px;
 }
+
 #video { 
     text-align: center;
     margin-top: 10px;
@@ -240,6 +237,7 @@ div.copyright{
     margin-left: auto;
     position:relative;
 }
+
 div.summary { 
     display: inline-block; 
     background-color: lightblue;
@@ -354,12 +352,10 @@ input, textarea {
     /* To make sure that all text fields have the same font settings
        By default, textareas have a monospace font */
     font: 1em sans-serif;
-
     /* To give the same size to all text field */
     width: 300px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-
     /* To harmonize the look & feel of text field border */
     border: 1px solid #999;
 }
@@ -372,10 +368,8 @@ input:focus, textarea:focus {
 textarea {
     /* To properly align multiline text fields with their labels */
     vertical-align: top;
-
     /* To give enough room to type some text */
     height: 5em;
-
     /* To allow users to resize any textarea vertically
        It does not work on every browsers */
     resize: vertical;

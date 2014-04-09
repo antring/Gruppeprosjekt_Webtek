@@ -11,7 +11,6 @@ img4.src = "artwork/twows_img4.jpg";
 img5 = new Image ();
 img5.src = "artwork/twows_img5.jpg";
 
-
 window.onload=slideshowUp;
 
 function slideshowUp()

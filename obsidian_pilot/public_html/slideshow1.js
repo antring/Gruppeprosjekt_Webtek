@@ -11,7 +11,6 @@ img4.src = "artwork/vikings_img6.jpg";
 img5 = new Image ();
 img5.src = "artwork/vikings_img7.jpg";
 
-
 window.onload=slideshowUp;
 
 function slideshowUp()
