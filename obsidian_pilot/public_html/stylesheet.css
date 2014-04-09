@@ -175,6 +175,7 @@ div.review{
 div.reviewtext{
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 img.bigpic{
@@ -182,15 +183,17 @@ img.bigpic{
     height:auto;
     display:block;
     margin-right: 10px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 img.smallpic{
     float:right;
     display:inline-block;
     width: 40%;
-    margin-right: 2.5%;
     margin-left:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 div.readmore{
