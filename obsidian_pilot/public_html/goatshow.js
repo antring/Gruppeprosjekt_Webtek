@@ -11,7 +11,7 @@ img4.src = "artwork/goat4.png";
 img5 = new Image ();
 img5.src = "artwork/goat5.jpeg";
 
-window.onload=slideshowUp();
+window.onload=slideshowUp;
 
 function slideshowUp()
 {
