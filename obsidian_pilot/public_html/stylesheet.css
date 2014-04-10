@@ -184,7 +184,8 @@ img.bigpic{
 img.smallpic{
     float:right;
     display:inline-block;
-    width: 40%;
+    width: 250px;
+    height:160px;;
     margin-left:10px;
     margin-top: 10px;
     margin-bottom: 10px;

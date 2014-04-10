@@ -11,14 +11,14 @@ img4.src = "artwork/goat4.png";
 img5 = new Image ();
 img5.src = "artwork/goat5.jpeg";
 
-window.onload=slideshowUp;
+window.onload=slideshowUp();
 
 function slideshowUp()
 {
 num=num+1;
 if (num===6)
 {num=1;}
-document.getElementById("slideshow1").src=eval("img"+num+".src");
+document.getElementById("slideshow2").src=eval("img"+num+".src");
 }
 
 function slideshowBack()
@@ -26,7 +26,7 @@ function slideshowBack()
 num=num-1;
 if (num===0)
 {num=5;}
-document.getElementById("slideshow1").src=eval("img"+num+".src");
+document.getElementById("slideshow2").src=eval("img"+num+".src");
 }
 
 
