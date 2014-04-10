@@ -9,14 +9,14 @@ img3.src = "artwork/goat3.jpg";
 img4 = new Image ();
 img4.src = "artwork/goat4.png";
 img5 = new Image ();
-img5.src = "artwork/goat5.jpg";
+img5.src = "artwork/goat5.jpeg";
 
 window.onload=slideshowUp;
 
 function slideshowUp()
 {
 num=num+1;
-if (num===5)
+if (num===6)
 {num=1;}
 document.getElementById("slideshow1").src=eval("img"+num+".src");
 }
